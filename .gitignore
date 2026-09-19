@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+
+# Simulation output
+build/
+*.vcd
+*.vvp
+
+# Original course slides (other authors' names on the title page; upstream copy:
+# github.com/sudhamshu091/Verilog/tree/main/CRC%20Coding). Figures used in the
+# README are extracted into docs/images.
+CRC_Coding.pdf
